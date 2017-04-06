@@ -1,0 +1,7 @@
+Some applications of recursion in nested data structure manipulation.
+
+(1)find minimum or maximum number inside a nested list.
+(2)count the occurances of given target inside a nested list.
+(3)collect all the numerical elements inside a nested list, into a flat list.
+
+All working examples are given in the source.

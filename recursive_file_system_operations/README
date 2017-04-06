@@ -1,0 +1,8 @@
+Some applications of recursion in file system manipulation.
+
+(1)base method without recursion, get all the files and directories directly inside a given root.
+(2)get all the files paths inside all levels of main directory and subdirectories for a given root path.
+(3)recursively create a file inside all levels of main directory and subdirectories for a given root path.
+(4)recursively delete a given file inside all levels of main directory and subdirectories for a given root path.
+
+All working examples are given in the source.

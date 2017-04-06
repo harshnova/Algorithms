@@ -1,0 +1,19 @@
+Generalized algorithms to merge any number of sorted numerical (integer and decimal point) arrays into one sorted array.
+
+(a) merge_n_lists.py is the main class that contains following functions to merge any number of sorted arrays:
+1. All input arrays increasingly sorted. Output array increasingly sorted.
+2. All input arrays decreasingly sorted. Output array decreasingly sorted.
+3. All input arrays decreasingly sorted. Output array increasingly sorted.
+4. All input arrays increasingly sorted. Output array decreasingly sorted.
+
+(b)mergebase.py is the base class from which the above functions are derived. This class contains the following functions to merge two sorted arrays:
+1. Input two arrays increasingly sorted. Output array increasingly sorted.
+2. Input two arrays decreasingly sorted. Output array decreasingly sorted.
+3. Input two arrays decreasingly sorted. Output array increasingly sorted.
+4. Input two arrays increasingly sorted. Output array decreasingly sorted.
+5. Input two arrays increasingly and decreasingly sorted respectively. Output array increasingly sorted.
+6. Input two arrays increasingly and decreasingly sorted respectively. Output array decreasingly sorted.
+7. Input two arrays decreasingly and increasingly sorted respectively. Output array decreasingly sorted.
+8. Input two arrays decreasingly and increasingly sorted respectively. Output array increasingly sorted.
+
+All working examples are provided in the codes. 
