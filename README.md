@@ -1,1 +1,1 @@
-# algorithms_dataStructures
+Collection of various algorithms and data structures implementation.
